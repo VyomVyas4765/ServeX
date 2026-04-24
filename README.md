@@ -73,7 +73,7 @@ External Services (Razorpay, AWS S3)
 ⚙️ Setup:
 
 # Clone repo
-git clone https://github.com/your-username/ServeX.git
+git clone https://github.com/VyomVyas4765/ServeX.git
 
 # Backend setup
 cd backend
