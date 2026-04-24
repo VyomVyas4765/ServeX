@@ -11,6 +11,7 @@ Real-time event-driven design
 End-to-end workflow (order → payment → analytics)
 
 🛠️ Tech Stack
+
 Frontend: React, Vite, TypeScript, Tailwind CSS, shadcn/ui
 Backend: FastAPI (Python)
 Database: MongoDB (Motor async driver, Atlas vector search)
