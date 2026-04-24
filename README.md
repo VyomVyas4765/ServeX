@@ -1,4 +1,5 @@
 🍽️ ServeX
+
 Restaurant Operations Platform that transforms restaurant operations with real-time intelligence and AI-driven decision making.
 
 ServeX is a multi-tenant restaurant management system that combines real-time operations, AI-driven insights, and automation into a single platform. It enables restaurants to manage orders, tables, inventory, payments, and analytics while providing intelligent assistance through an AI-powered interface.
