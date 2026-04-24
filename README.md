@@ -3,14 +3,15 @@ Restaurant Operations Platform that transforms restaurant operations with real-t
 
 ServeX is a multi-tenant restaurant management system that combines real-time operations, AI-driven insights, and automation into a single platform. It enables restaurants to manage orders, tables, inventory, payments, and analytics while providing intelligent assistance through an AI-powered interface.
 
-🌟 Highlights
+Highlights:
+
 Full-stack production-oriented architecture
 Multi-tenant SaaS system
 AI-powered restaurant intelligence
 Real-time event-driven design
 End-to-end workflow (order → payment → analytics)
 
-🛠️ Tech Stack
+Tech Stack:
 
 Frontend: React, Vite, TypeScript, Tailwind CSS, shadcn/ui
 Backend: FastAPI (Python)
@@ -55,7 +56,8 @@ Auto-generated PDF invoices
 Cloud/local invoice storage
 
 
-🏗️ Architecture
+Architecture:
+
 Frontend (React + Vite + TypeScript)
         ↓
 Backend (FastAPI)
@@ -67,7 +69,8 @@ MongoDB + Redis
 External Services (Razorpay, AWS S3)
 
 
-⚙️ Setup
+⚙️ Setup:
+
 # Clone repo
 git clone https://github.com/your-username/ServeX.git
 
